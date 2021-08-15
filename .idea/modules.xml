@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-daily-projects-for-beginners.iml" filepath="$PROJECT_DIR$/Java-daily-projects-for-beginners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java点菜系统/Java点菜系统.iml" filepath="$PROJECT_DIR$/Java点菜系统/Java点菜系统.iml" />
+    </modules>
+  </component>
+</project>
