@@ -17,9 +17,9 @@ public class Dish {
 
 
     /**
-     * @param id:    编号
-     * @param name:  菜名
-     * @param price: 价格
+     * @param id    编号
+     * @param name  菜名
+     * @param price 价格
      */
     // 生成构造方法快捷键 alt+insert
     public Dish(int id, String name, double price) {
